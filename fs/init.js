@@ -5,6 +5,7 @@ load('api_gpio.js');
 load('api_mqtt.js');
 load('api_timer.js');
 load('api_sys.js');
+load('api_pwm.js');
 
 /*
 * We used pin 17 as an additional 3.3v power pin because our breadboards where a bit to small :D
